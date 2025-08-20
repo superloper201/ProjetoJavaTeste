@@ -1,0 +1,9 @@
+package calculadora;
+
+public class Calculadora {
+
+	public Double soma(double d, double e) {
+		return d + e;
+	}
+
+}
