@@ -6,4 +6,20 @@ public class Calculadora {
 		return d + e;
 	}
 
+	public Double subtrai(double d, double e) {
+		return d - e;
+	}
+
+	public Double multiplica(double d, double e) {
+		return d * e;
+	}
+
+	public Double divide(double d, double e) {
+		return d / e;
+	}
+
+	public Double potencia(double d, double e) {
+		return Math.pow(d, e);
+	}
+
 }
